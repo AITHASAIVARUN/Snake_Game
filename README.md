@@ -22,7 +22,7 @@ A **classic Snake game** built using **HTML, CSS, and JavaScript**. Control the 
 - **JavaScript** – Snake movement, collision detection, and score tracking
 
 ## 📌 Live Demo
-You can play the game here: [Play_Now](https://your-username.github.io/Snake-Game)  
+You can play the game here: [Play_Now](https://aithasaivarun.github.io/Snake_Game/)  
 *(Replace the link with your actual GitHub Pages link after deploying.)*
 
 ## 📥 Installation
